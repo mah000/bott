@@ -1,0 +1,4 @@
+pytelegrambotapi
+pytube
+python-decouple
+decouple
